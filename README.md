@@ -21,4 +21,7 @@ I really want to try whatever you were smoking, it must have been **really** goo
 
 ## Known issues
 
-The function signature in the locked bar at the top of the BinaryView (that appears when the current function signature is not in view) can not be modified via the RenderLayer API at this time. It will hopefully be added soon, at which point this plugin will be updated.
+### Overflow bar for function signature not covered by Render Layers
+The function signature in the locked bar at the top of the BinaryView (that appears when the current function signature is not in view) can not be modified via the RenderLayer API at this time. ~~It will hopefully be added soon, at which point this plugin will be updated.~~
+
+I have been informed that this is **not planned** and therefore, as far as I'm aware, there is nothing I can do about it at this time.
