@@ -8,11 +8,11 @@ As this is a purely *visual* change, it costs us nothing and breaks nothing else
 
 ## Before and After
 
-![Comparison](./media/comparison.png)
+![Comparison](https://github.com/user-attachments/assets/b14d0865-df41-418c-b724-4490d162c0ec)
 
 ## How to Use
 
-![Menu](./media/menu.png)
+![Menu](https://github.com/user-attachments/assets/9536ea90-45fc-4c6b-9bcc-546dad3d6c0b)
 
 Simply tick the `Oxidize Types` entry in the Render Layers section of the Burger Menu.
 
